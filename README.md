@@ -15,16 +15,11 @@ FireFox Browser: 🟡 Testing
 ```
 **Disclaimer:** Please note that this is a beta version of the Heject platform which is still undergoing final testing before its official release.
 
-## Instal Heject (Chrome)
+## Heject Installation (Chrome)
 To install Heject correctly to your browser, please follow the directions below. If you need more help create a [issue thread](https://github.com/wsgdandy/heject/labels/%F0%9F%9A%80%20Installation%20Support). We strongly ask you to use the most recent version if you are not sure what you are doing.
 1. Download the [heject-main.zip](https://github.com/wsgdandy/heject/archive/refs/heads/main.zip) folder, you can also click the green "Code" dropdown at the top of this page to download.
 2. The folder that downloaded should should be named **heject-main.zip**, now open the zip folder and drag the folder inside the zip folder to your desktop.
 3. Now open your chrome browser and head over to [chrome://extensions/](chrome://extensions/) in your chrome browser.
 4. Before you continue, developer mode should be enabled in the top right of your screen. If developer mode is on, drag and drop the folder on your desktop into web page you have just loaded up.
 
-⚠️ A full video tutorial will be displayed soon. If you have any questions make a issue thread and you will be answered within an hour or less.
-<video width="320" height="240" controls>
-  <source src="icons/screen-capture.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>
-
+**Info:** The tutorial video is now out, [click here](/icons/screen-capture.webm) to watch the video.
