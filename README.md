@@ -21,4 +21,5 @@ To install Heject correctly to your browser, please follow the directions below.
 2. The folder that downloaded should should be named **heject-main.zip**, now open the zip folder and drag the folder inside the zip folder to your desktop.
 3. Now open your chrome browser and head over to [chrome://extensions/](chrome://extensions/) in your chrome browser.
 4. Before you continue, developer mode should be enabled in the top right of your screen. If developer mode is on, drag and drop the folder on your desktop into web page you have just loaded up.
+
 ⚠️ A full video tutorial will be displayed soon. If you have any questions make a issue thread and you will be answered within an hour or less.
