@@ -16,20 +16,6 @@ FireFox Browser: 🟡 Testing
 **Disclaimer:** Please note that this is a beta version of the Heject platform which is still undergoing final testing before its official release.
 
 ## Installation 
-
-The re-frame documentation is [available here](https://day8.github.io/re-frame/).
-
-
-## The Current Version 
-
-[![Clojars Project](https://img.shields.io/clojars/v/re-frame?labelColor=283C67&color=729AD1&style=for-the-badge&logo=clojure&logoColor=fff)](https://clojars.org/re-frame)
-
-For full dependency information, see the [Clojars page](https://clojars.org/re-frame/)
-
-## Getting Help 
-
-[![Get help on Slack](http://img.shields.io/badge/slack-clojurians%20%23re--frame-97C93C?labelColor=283C67&logo=slack&style=for-the-badge)](https://clojurians.slack.com/channels/re-frame)
-
-## Licence
-
-re-frame is [MIT licenced](license.txt)
+To install Heject correctly to your browser, please follow the directions below. If you need more help create a [issue thread](https://github.com/wsgdandy/heject/labels/%F0%9F%9A%80%20Installation%20Support). We strongly ask you to use the most recent version if you are not sure what you are doing.
+1. Click [here](https://github.com/wsgdandy/heject/archive/refs/heads/main.zip) to download the .zip version, or click the green "Code" dropdown at the top of the screen.
+2. 
