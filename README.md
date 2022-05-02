@@ -5,8 +5,6 @@
 ## Stay Safe With Heject
 
 > Are you tired of consistant ads restricting your brainly expirence? With Heject, you can remain safe and restriction-free when roaming Brainly. Our job at Heject is to make sure you are safe which is why we are a completely open source extension.
-<br/> 
-<br/>
 
 ## Support Browsers
 
@@ -15,7 +13,9 @@ Here are the browsers that work best with Heject. We reccomend using anything th
 Chrome Browser: 🟢 Stable
 FireFox Browser: 🟡 Testing
 ```
-## Documentation 
+**Disclaimer:** Please note that this is a beta version of the Heject platform which is still undergoing final testing before its official release.
+
+## Installation 
 
 The re-frame documentation is [available here](https://day8.github.io/re-frame/).
 
