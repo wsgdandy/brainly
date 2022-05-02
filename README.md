@@ -15,7 +15,8 @@ FireFox Browser: 🟡 Testing
 ```
 **Disclaimer:** Please note that this is a beta version of the Heject platform which is still undergoing final testing before its official release.
 
-## Installation 
+## Installation (Chrome)
 To install Heject correctly to your browser, please follow the directions below. If you need more help create a [issue thread](https://github.com/wsgdandy/heject/labels/%F0%9F%9A%80%20Installation%20Support). We strongly ask you to use the most recent version if you are not sure what you are doing.
-1. Click [here](https://github.com/wsgdandy/heject/archive/refs/heads/main.zip) to download the .zip version, or click the green "Code" dropdown at the top of the screen.
-2. 
+1. Click [here](https://github.com/wsgdandy/heject/archive/refs/heads/main.zip) to download the zip folder, you can also click the green "Code" dropdown at the top of this page.
+2. The folder that downloaded should should be named `heject-main.zip`, now open the zip folder and drag the folder inside the zip folder to your designated destination.
+3. Now open your chrome browser and head over to chrome://extensions/ in 
